@@ -1,0 +1,6 @@
+In this file as all other every line you add should start with your initials followed by a <tab>
+PL	like this
+PL	Each of you should add in the tile of your game, your name and the game it's based on on 
+PL	3 sperate lines. YOuy should edit your files in notepad++
+PL	Do not remove anyone else work from these files, be aware that git may cause the file to change
+PL	you should always reload it.
